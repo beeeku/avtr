@@ -1,0 +1,9 @@
+name = "avtr"
+type = 'webpack'
+account_id = '68ab7234248e4d40a61984b8ef2796d4'
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+target_type = "webpack"
+webpack_config = "webpack.config.js"
