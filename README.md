@@ -9,6 +9,8 @@
 ```sh
 yarn install
 ```
+## Example Url
+https://avtr.beeeku.workers.dev/factory%20plus.svg
 
 ## Author
 
